@@ -5,6 +5,10 @@ body {
 header,footer {
     background-color: skyblue;
 }
+.site-title {
+    color: lavender
+}
+
 ul {
     list-style-type: square;
 }
