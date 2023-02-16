@@ -14,7 +14,7 @@ header,footer {
 ul {
     list-style-type: square;
 }
-.hobbies li:nth-child(odd) {
+.hobbies-list li:nth-child(odd) {
     background-color: aquamarine;
 }
 nav ul {
