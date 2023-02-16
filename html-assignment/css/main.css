@@ -17,6 +17,9 @@ ul {
 .hobbies li:nth-child(odd) {
     background-color: aquamarine;
 }
+nav ul {
+    list-style-type: none;
+}
 a:link {
     text-decoration: none;
     background-color: bisque;
