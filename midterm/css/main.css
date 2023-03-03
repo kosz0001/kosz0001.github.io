@@ -7,11 +7,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-h1 .center {
+h1 {
     color: white;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 main {
     background-color: #d8e8e7;
