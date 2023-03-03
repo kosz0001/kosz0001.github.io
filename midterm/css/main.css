@@ -8,3 +8,6 @@ h1 {
 main {
     background-color: #d8e8e7;
 }
+nav {
+    text-transform: uppercase;
+}
