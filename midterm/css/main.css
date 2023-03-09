@@ -17,6 +17,10 @@ nav {
     text-transform: uppercase;
 }
 
+a.container {
+    border-width: thin;
+}
+
 footer {
     text-align: right;
 }
