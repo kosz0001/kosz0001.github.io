@@ -36,6 +36,22 @@ main {
     border-style: solid;
     border-width: regular;
 }
+#fname {
+    width: 100%;
+    border: 0.5px solid;
+    border-radius: 0;
+}
+#email {
+    width: 100%;
+    border: 0.5px solid;
+    border-radius: 0;
+}
+#message {
+    width: 100%;
+    border: 1px solid;
+    padding-bottom: 60px;
+    border-radius: 0;
+}
 button {
     background-color: #d8e8e7;
     text-transform: uppercase;
