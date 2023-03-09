@@ -16,8 +16,16 @@ h1 {
 main {
     background-color: #d8e8e7;
 }
-nav {
+#navbar li {
     text-transform: uppercase;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 400px;
+}
+li {
+    padding: 0;
 }
 .container {
     padding: 20px;
