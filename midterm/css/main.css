@@ -16,3 +16,7 @@ main {
 nav {
     text-transform: uppercase;
 }
+
+footer {
+    text-align: right;
+}
