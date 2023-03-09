@@ -17,8 +17,9 @@ nav {
     text-transform: uppercase;
 }
 
-form {
-    border-width: thin;
+.container {
+    border-style: solid;
+    border-width: regular;
 }
 
 footer {
