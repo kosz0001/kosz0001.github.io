@@ -92,7 +92,8 @@ img.square {
     padding: 20px;
     margin: 15px;
     border-style: solid;
-    border-width: regular;
+    border-width: thin;
+    border-color: black;
 }
 #fname {
     width: 100%;
