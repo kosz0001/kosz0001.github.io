@@ -85,6 +85,10 @@ main {
     padding-top: 15px;
     padding-bottom: 30px;
 }
+a:link {
+    text-decoration: none;
+    color: black;
+}
 img.square {
     width: 200px;
     height: 200px;
