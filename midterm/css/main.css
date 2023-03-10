@@ -102,12 +102,19 @@ h2 {
     padding-left: 10px;
     padding-bottom: 15px;
 }
+p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
 img.square {
     width: 200px;
     height: 200px;
     margin-left: 10px;
     margin-right: 10px;
     float: left;
+    padding-bottom: 20px;
 }
 #facts ul {
     list-style-position: inside;
