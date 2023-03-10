@@ -106,7 +106,7 @@ p {
     font-size: 0.9rem;
     line-height: 1.4;
     padding-right: 15px;
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 img.square {
     width: 200px;
@@ -118,10 +118,15 @@ img.square {
 }
 h3 {
     font-size: 1.3rem;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
-#facts ul {
-    list-style-position: inside;
-    padding-left: 0;
+#facts li {
+    padding-top: 2px; 
+    margin-left: 25px;
+    list-style-type: disc;
+    font-size: 0.9rem;
 }
 .container {
     padding: 20px;
