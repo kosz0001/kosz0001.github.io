@@ -75,15 +75,23 @@ main {
     margin-right: 220px;
     margin-bottom: 20px;
 }
+#navbar {
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
 #navbar li {
     text-transform: uppercase;
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 140px;
     margin-right: auto;
     text-align: center;
-    width: 200px;
-    padding-top: 15px;
-    padding-bottom: 30px;
+    width: 150px;
+    border-right: 1px solid black;
+    float: inline-start;
+}
+#navbar li:last-child {
+    border-right: 0;
+    padding-left: 0px;
 }
 a:link {
     text-decoration: none;
