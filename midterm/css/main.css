@@ -73,6 +73,7 @@ main {
     background-color: #d8e8e7;
     margin-left: 220px;
     margin-right: 220px;
+    margin-bottom: 20px;
 }
 #navbar li {
     text-transform: uppercase;
