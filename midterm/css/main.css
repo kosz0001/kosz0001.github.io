@@ -74,11 +74,12 @@ h1 {
     text-align: center;
     vertical-align: sub;
     position: absolute;
-    left: 41%;
-    top: 26%
+    left: 600px;
+    top: 205px;
 }
 .box {
     background-color: #d8e8e7;
+    margin-top: -20px;
     margin-left: 238px;
     margin-right: 220px;
     margin-bottom: 20px;
