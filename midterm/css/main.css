@@ -165,5 +165,9 @@ button {
     padding: 12px 15px;
 }
 footer {
+    font-size: 0.9rem;
     text-align: right;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-right: 20px;
 }
