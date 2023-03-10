@@ -46,14 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/* My CSS Begins Here */
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
     background-color: #b2d3cf;
-}
-h1, h2, h3 {
-    font-weight: normal;
 }
 .center {
     display: block;
@@ -70,15 +67,17 @@ header {
     width: 1025px;
 }
 h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: white;
     text-align: center;
+    vertical-align: sub;
 }
 .box {
     background-color: #d8e8e7;
     margin-left: 220px;
     margin-right: 220px;
     margin-bottom: 20px;
+    margin-top: -8px;
     width: 1025px;
 }
 #navbar {
@@ -89,11 +88,9 @@ h1 {
     text-transform: uppercase;
     display: inline-block;
     margin-left: 140px;
-    margin-right: auto;
+    margin-right: 140px;
     text-align: center;
-    width: 150px;
-    border-right: 1px solid black;
-    float: inline-start;
+    width: 50px;
 }
 #navbar li:last-child {
     border-right: 0;
