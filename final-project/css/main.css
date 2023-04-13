@@ -51,8 +51,12 @@ nav {
     background-color: #222;
 }
 
-nav div:nth-child(1) {
+nav .home_nav {
     background-color: #c78c06;
+}
+
+.search {
+    background-color: #222;
 }
 
 .about-us {
