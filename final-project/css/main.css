@@ -58,6 +58,13 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+
+
 nav {
     background-color: #222;
     padding: 60px;
