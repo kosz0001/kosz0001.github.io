@@ -63,7 +63,10 @@ h2 {
     font-weight: bolder;
 }
 
-
+h3 {
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
 
 nav {
     background-color: #222;
