@@ -46,3 +46,52 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+nav {
+    background-color: #222;
+}
+
+nav div:nth-child(1) {
+    background-color: #c78c06;
+}
+
+.about-us {
+    background-color: #ffe6ac;
+}
+
+.digital-transformation {
+    background-color: #ffe6ac;
+}
+
+.marketing {
+    background-color: #ffe6ac;
+}
+
+.video-production {
+    background-color: #ffe6ac;
+}
+
+.web-development {
+    background-color: #ffe6ac;
+}
+
+.print {
+    background-color: #ffe6ac;
+}
+
+.john {
+    background-color: #ffe6ac;
+}
+
+.bob {
+    background-color: #ffe6ac;
+}
+
+th {
+    background-color: #ffe6ac;
+}
+
+footer {
+    background-color: #222;
+    color: #ffe6ac;
+}
