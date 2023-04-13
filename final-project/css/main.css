@@ -47,8 +47,14 @@ table {
 	border-spacing: 0;
 }
 
+body {
+    
+}
+
 nav {
     background-color: #222;
+    padding: 60px;
+    text-align: center;
 }
 
 nav .home_nav {
