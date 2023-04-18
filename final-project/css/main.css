@@ -58,16 +58,26 @@ h1 {
     font-size: 4rem;
     font-weight: 700;
     color: white;
+    margin: auto;
+    width: 50%;
 }
 
 h2 {
     font-size: 3rem;
     font-weight: bolder;
+    margin: auto;
+    width: 50%;
 }
 
 h3 {
     font-size: 1.7rem;
     font-weight: bolder;
+    margin: auto;
+    width: 50%;
+}
+
+img {
+   
 }
 
 nav {
@@ -84,6 +94,10 @@ nav .home_nav {
     background-color: #222;
 }
 
+.wrapper {
+    align-items: center;
+}
+
 .header-banner .wrapper {
     background-color: #222;
     color: white;
@@ -91,38 +105,56 @@ nav .home_nav {
 
 .about-us {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .digital-transformation {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .marketing {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .video-production {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .web-development {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .print {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .john {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 .bob {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 th {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
 }
 
 footer {
