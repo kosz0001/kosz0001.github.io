@@ -249,6 +249,7 @@ img.print_img {
     background-image: url("../images/vision.jpg");
     background-repeat: no-repeat;
     background-position: center;
+    color: white;
 }
 
 img.vision_img {
