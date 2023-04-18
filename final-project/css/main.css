@@ -95,7 +95,7 @@ h3 {
     font-size: 1.7rem;
     font-weight: bolder;
     margin: auto;
-    width: 95%;
+    width: 50%;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -235,6 +235,12 @@ img.vision_img {
     display: block;
     margin: auto;
     width: 50%;
+}
+
+#team_nav {
+    margin: auto;
+    display: block;
+    width: 54%;
 }
 
 img.john_img {
