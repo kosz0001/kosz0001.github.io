@@ -246,6 +246,9 @@ img.print_img {
     margin: auto;
     display: block;
     width: 55%;
+    background-image: url("../images/vision.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 img.vision_img {
@@ -270,6 +273,12 @@ img.john_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+}
+
+.john_title {
+    margin-left: 0%;
+    width: 90%;
+    display: block;
 }
 
 img.bob_img {
