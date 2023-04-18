@@ -54,12 +54,30 @@ body {
     font-size: 1rem;
 }
 
+header {
+    background-color: #222;
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+img.logo, .home_nav {
+    background-color: #c78c06;
+}
+
+button {
+    margin: auto;
+    display: block;
+
+}
+
 h1 {
     font-size: 4rem;
     font-weight: 700;
     color: white;
     margin: auto;
     width: 50%;
+    background-color: #222;
 }
 
 h2 {
