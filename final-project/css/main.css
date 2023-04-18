@@ -267,6 +267,12 @@ img.bob_img {
     width: 50%;
 }
 
+#contact_nav {
+    margin: auto;
+    display: block;
+    width: 53%;
+}
+
 table {
     margin: auto;
     width: 50%;
@@ -286,4 +292,9 @@ th {
 footer {
     background-color: #222;
     color: #ffe6ac;
+    margin: auto;
+    display: block;
+    width: 54%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
