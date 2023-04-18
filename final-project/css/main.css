@@ -108,8 +108,18 @@ nav .home_nav {
     color: white;
 }
 
+img.about_img {
+    margin: auto;
+    width: 50%;
+}
+
 .about-us {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
+}
+
+img.digital_img {
     margin: auto;
     width: 50%;
 }
@@ -120,8 +130,18 @@ nav .home_nav {
     width: 50%;
 }
 
+img.marketing_img {
+    margin: auto;
+    width: 50%;
+}
+
 .marketing {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
+}
+
+img.video_img {
     margin: auto;
     width: 50%;
 }
@@ -132,8 +152,18 @@ nav .home_nav {
     width: 50%;
 }
 
+img.web_img {
+    margin: auto;
+    width: 50%;
+}
+
 .web-development {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
+}
+
+img.print_img {
     margin: auto;
     width: 50%;
 }
@@ -144,8 +174,23 @@ nav .home_nav {
     width: 50%;
 }
 
+img.vision_img {
+    margin: auto;
+    width: 50%;
+}
+
+img.john_img {
+    margin: auto;
+    width: 50%;
+}
+
 .john {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
+}
+
+img.bob_img {
     margin: auto;
     width: 50%;
 }
