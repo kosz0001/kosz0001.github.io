@@ -98,7 +98,12 @@ nav .home_nav {
     align-items: center;
 }
 
-.header-banner .wrapper {
+.header-banner {
+    background-image: url("../images/main-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    width: 50%;
     background-color: #222;
     color: white;
 }
