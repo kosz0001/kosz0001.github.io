@@ -76,8 +76,19 @@ h3 {
     width: 50%;
 }
 
-img {
-   
+h4 {
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    margin: auto;
+    width: 50%;
+}
+
+form {
+    margin: auto;
+    width: 50%;
 }
 
 nav {
@@ -109,6 +120,7 @@ nav .home_nav {
 }
 
 img.about_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -120,6 +132,7 @@ img.about_img {
 }
 
 img.digital_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -131,6 +144,7 @@ img.digital_img {
 }
 
 img.marketing_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -142,6 +156,7 @@ img.marketing_img {
 }
 
 img.video_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -153,6 +168,7 @@ img.video_img {
 }
 
 img.web_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -164,6 +180,7 @@ img.web_img {
 }
 
 img.print_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -175,11 +192,13 @@ img.print_img {
 }
 
 img.vision_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
 
 img.john_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -191,6 +210,7 @@ img.john_img {
 }
 
 img.bob_img {
+    display: block;
     margin: auto;
     width: 50%;
 }
@@ -201,8 +221,18 @@ img.bob_img {
     width: 50%;
 }
 
+table {
+    margin: auto;
+    width: 50%;
+}
+
 th {
     background-color: #ffe6ac;
+    margin: auto;
+    width: 50%;
+}
+
+.map {
     margin: auto;
     width: 50%;
 }
