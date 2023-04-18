@@ -79,6 +79,12 @@ button {
 
 }
 
+img {
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
 h1 {
     font-size: 4rem;
     font-weight: 700;
@@ -257,7 +263,7 @@ img.vision_img {
 img.john_img {
     display: block;
     margin: auto;
-    width: 50%;
+    width: 100%;
 }
 
 .john {
@@ -269,7 +275,7 @@ img.john_img {
 img.bob_img {
     display: block;
     margin: auto;
-    width: 50%;
+    width: 100%;
 }
 
 .bob {
