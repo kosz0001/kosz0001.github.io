@@ -225,6 +225,12 @@ img.print_img {
     width: 50%;
 }
 
+.vision {
+    margin: auto;
+    display: block;
+    width: 55%;
+}
+
 img.vision_img {
     display: block;
     margin: auto;
