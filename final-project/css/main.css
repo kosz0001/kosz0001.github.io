@@ -190,7 +190,8 @@ nav .home_nav {
 img.about_img {
     display: block;
     margin: auto;
-    width: 50%;
+    width: 95%;
+    padding-top: 17px;
 }
 
 .about-us {
@@ -212,6 +213,7 @@ img.digital_img {
     display: block;
     margin: auto;
     width: 50%;
+    margin-top: 20px;
 }
 
 .digital-transformation {
@@ -225,6 +227,7 @@ img.marketing_img {
     display: block;
     margin: auto;
     width: 50%;
+    margin-top: 20px;
 }
 
 .marketing {
@@ -238,6 +241,7 @@ img.video_img {
     display: block;
     margin: auto;
     width: 50%;
+    margin-top: 20px;
 }
 
 .video-production {
@@ -251,6 +255,7 @@ img.web_img {
     display: block;
     margin: auto;
     width: 50%;
+    margin-top: 20px;
 }
 
 .web-development {
@@ -264,6 +269,7 @@ img.print_img {
     display: block;
     margin: auto;
     width: 50%;
+    margin-top: 20px;
 }
 
 .print {
