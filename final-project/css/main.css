@@ -295,10 +295,19 @@ img.bob_img {
 }
 
 #contact_nav {
-    margin: auto;
     display: block;
-    width: 53%;
+    margin: auto;
+    width: 50%;
 }
+
+.contact-form {
+    display: block;
+    margin: auto;
+    
+    
+}
+
+
 
 table {
     margin: auto;
