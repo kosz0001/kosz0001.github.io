@@ -62,7 +62,7 @@ header {
     text-align: center;
 }
 
-img.logo, .home_nav {
+ul > :first-child {
     background-color: #c78c06;
 }
 
