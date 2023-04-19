@@ -76,7 +76,6 @@ button {
     font-size: 1.1rem;
     color: white;
     background-color: #222;
-
 }
 
 img {
@@ -126,7 +125,7 @@ p {
     margin: auto;
     width: 95%;
     padding-top: 1%;
-    padding-bottom: 1%;
+    padding-bottom: 3%;
 }
 
 form {
@@ -192,6 +191,7 @@ img.digital_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+    padding-bottom: 20px;
 }
 
 img.marketing_img {
@@ -204,6 +204,7 @@ img.marketing_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+    padding-bottom: 20px;
 }
 
 img.video_img {
@@ -216,6 +217,7 @@ img.video_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+    padding-bottom: 20px;
 }
 
 img.web_img {
@@ -228,6 +230,7 @@ img.web_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+    padding-bottom: 20px;
 }
 
 img.print_img {
@@ -240,6 +243,7 @@ img.print_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
+    padding-bottom: 20px;
 }
 
 .vision {
