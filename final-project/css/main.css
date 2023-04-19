@@ -59,6 +59,7 @@ header {
     margin: auto;
     width: 50%;
     display: block;
+    text-align: center;
 }
 
 img.logo, .home_nav {
@@ -78,11 +79,11 @@ button {
     background-color: #222;
 }
 
-img {
+/** img {
     margin: auto;
     display: block;
     width: 50%;
-}
+} **/
 
 h1 {
     font-size: 4rem;
@@ -133,11 +134,13 @@ form {
     width: 50%;
 }
 
-nav {
-    background-color: #222;
-    padding: 60px;
-    text-align: center;
-}
+/** nav {
+    background-color: 
+    display: block;
+    margin: auto;
+    width: 100%;
+
+} **/
 
 nav .home_nav {
     background-color: #c78c06;
@@ -156,7 +159,7 @@ nav .home_nav {
     background-repeat: no-repeat;
     background-position: center;
     margin: auto;
-    width: 50%;
+    width: 51%;
     background-color: #222;
     color: white;
 }
