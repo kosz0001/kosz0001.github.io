@@ -282,11 +282,12 @@ img.print_img {
 .vision {
     margin: auto;
     display: block;
-    width: 55%;
+    width: 52%;
     background-image: url("../images/vision.jpg");
     background-repeat: no-repeat;
     background-position: center;
     color: white;
+    margin-top: 30px;
 }
 
 img.vision_img {
