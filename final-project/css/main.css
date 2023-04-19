@@ -57,13 +57,27 @@ body {
 header {
     background-color: #222;
     margin: auto;
-    width: 50%;
+    width: 51%;
     display: block;
     text-align: center;
 }
 
+a:link {
+    color: #c78c06;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #c78c06;
+}
+
+img.logo {
+    color: #c78c06;
+}
+
 ul > :first-child {
     background-color: #c78c06;
+    color: #222;
 }
 
 button {
