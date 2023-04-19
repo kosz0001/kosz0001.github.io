@@ -170,7 +170,8 @@ img.about_img {
 .about-us {
     background-color: #ffe6ac;
     margin: auto;
-    width: 50%;
+    width: 51%;
+    display: block;
 }
 
 .services {
