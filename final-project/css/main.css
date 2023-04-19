@@ -72,12 +72,21 @@ a:visited {
 }
 
 img.logo {
-    color: #c78c06;
+    display: block;
+    padding-left: 14px;
+    border-right: #c78c06;
+}
+
+li {
+    padding: 20px;
 }
 
 ul > :first-child {
     background-color: #c78c06;
     color: #222;
+    display: block;
+    margin: auto;
+    width: 91%;
 }
 
 button {
