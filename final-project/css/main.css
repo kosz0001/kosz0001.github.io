@@ -143,6 +143,7 @@ h4 {
     display: block;
     padding-top: 2%;
     padding-bottom: 2%;
+    font-weight: bold;
 }
 
 p {
@@ -300,6 +301,11 @@ img.vision_img {
     margin: auto;
     display: block;
     width: 54%;
+}
+
+hr {
+    border-color: #c78c06;
+    width: 95%;
 }
 
 img.john_img {
