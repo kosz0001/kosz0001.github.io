@@ -422,6 +422,15 @@ img.bob_img {
     width: 50%;
 }
 
+#message {
+    width: 100%;
+    border: 1px solid;
+    padding-bottom: 80px;
+    border-radius: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
 .hours h3 {
     width: 50%;
 }
