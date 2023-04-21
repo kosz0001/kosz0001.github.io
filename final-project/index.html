@@ -126,12 +126,20 @@
             <h2><a id="contact_nav">Contact Us</a></h2>
             <h3>Send us a message</h3>
             <form action="inquiries.html" method="post">
-                <label for="fullname">Full Name</label>
-                <input id="fullname">
-                <label for="email">Email</label>
-                <input id="email">
-                <label for="message">Message</label>
-                <input id="message">
+                <div class="contact-container">
+                    <div>
+                        <label for="fullname">Full Name</label>
+                        <input id="fullname" name="name" type="text">
+                    </div>
+                    <div>
+                        <label for="email">Email</label>
+                        <input id="email" name="email" type="text">
+                    </div>
+                    <div>
+                        <label for="message">Message</label>
+                        <input id="message" name="message" type="text">
+                    </div>
+                </div>
             </form>
             <button class="button4">Send</button>
         </div>
