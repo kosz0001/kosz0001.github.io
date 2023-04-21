@@ -368,17 +368,24 @@ img.bob_img {
     width: 50%;
 }
 
-#contact_nav {
+/*#contact_nav {
     display: block;
     margin: auto;
     width: 50%;
-}
+}*/
 
 input {
     width: 100%;
     padding: 5px;
     margin-top: 5px;
     margin-bottom: 10px;
+}
+
+.button4 {
+    padding: 5px;
+    color: #c78c06;
+    display: block;
+    margin-left: 25%;
 }
 
 table {
