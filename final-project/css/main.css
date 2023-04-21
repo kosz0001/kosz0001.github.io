@@ -174,7 +174,7 @@ form {
     background-color: #222;
     display: flex;
     margin: auto;
-    width: 737px;
+    width: 690px;
 }
 #search {
     float: left;
@@ -368,9 +368,8 @@ img.bob_img {
     width: 50%;
 }
 
-/*#contact_nav {
+/*.contact-form {
     display: block;
-    margin: auto;
     width: 50%;
 }*/
 
