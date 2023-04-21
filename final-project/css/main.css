@@ -169,7 +169,7 @@ form {
 
 .search {
     background-color: #222;
-    display: block;
+    display: flex;
     margin: auto;
     width: 737px;
 }
@@ -177,8 +177,13 @@ form {
     float: left;
     display: flex;
     margin: auto;
-    width: 50%;
+    width: 90%;
     padding: 0;
+}
+
+.button1 {
+    border: #c78c06 2px;
+    color: #c78c06;
 }
 
 .wrapper {
