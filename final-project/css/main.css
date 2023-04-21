@@ -103,7 +103,7 @@ button {
     padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 0.7srem;
+    font-size: 0.7rem;
     color: white;
     background-color: #222;
 }
@@ -376,7 +376,6 @@ img.vision_img {
 hr {
     border-color: #c78c06;
     width: 95%;
-    padding-top: none;
 }
 
 img.john_img {
@@ -548,5 +547,16 @@ footer a:link {
     .about-us {
         display: flex;
         flex-direction: row;
+    }
+    .services {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+    .services.dig {
+        grid-column: 1 / 3;
+    }
+    .services.market { 
+        grid-column: 4 / 6;
     }
 }
