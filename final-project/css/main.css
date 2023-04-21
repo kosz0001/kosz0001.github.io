@@ -62,14 +62,6 @@ header {
     text-align: center;
 }
 
-li .home_nav {
-    color: #222;
-}
-
-header .home_nav {
-    color: 222;
-}
-
 a:link {
     color: #c78c06;
     text-decoration: none;
@@ -91,6 +83,7 @@ li {
 
 ul > :first-child {
     margin-top: 20px;
+    color: #222;
     background-color: #c78c06;
     display: block;
     margin: auto;
@@ -174,9 +167,16 @@ form {
 
 } **/
 
-
 .search {
     background-color: #222;
+    display: block;
+    margin: auto;
+    width: 737px;
+}
+#search {
+    clear: left;
+    margin: auto;
+    width: 93%;
 }
 
 .wrapper {
