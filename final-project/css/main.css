@@ -202,6 +202,11 @@ form {
     color: white;
 }
 
+.button2 {
+    background-color: #c78c06;
+    color: #222;
+}
+
 img.about_img {
     display: block;
     margin: auto;
