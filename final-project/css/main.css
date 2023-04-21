@@ -410,6 +410,13 @@ th, td {
 .map {
     margin: auto;
     width: 50%;
+    position: relative;
+    padding-left: 45px;
+}
+
+.map iframe {
+    height: 450px;
+    width: 650px;
 }
 
 footer {
