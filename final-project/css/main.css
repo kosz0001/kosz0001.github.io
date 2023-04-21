@@ -174,9 +174,11 @@ form {
     width: 737px;
 }
 #search {
-    clear: left;
+    float: left;
+    display: flex;
     margin: auto;
-    width: 93%;
+    width: 50%;
+    padding: 0;
 }
 
 .wrapper {
