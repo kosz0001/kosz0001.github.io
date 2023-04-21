@@ -222,7 +222,7 @@ header {
     background-image: url("../images/main-banner.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: 100% 150%;
     display: block;
     margin: auto;
     width: 51%;
@@ -235,7 +235,7 @@ header {
     margin: auto;
     width: 100%;
     background-color: #222;
-    opacity: 50%;
+    background-size: 100px 80px;
     color: white;
 }
 
@@ -501,4 +501,8 @@ footer {
 
 footer a:link {
     text-decoration: underline;
+}
+
+@media screen and (min-width: 760px) {
+    
 }
