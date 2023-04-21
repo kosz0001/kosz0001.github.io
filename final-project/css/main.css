@@ -145,7 +145,6 @@ h4 {
     width: 95%;
     display: block;
     padding-top: 2%;
-    padding-bottom: 2%;
     font-weight: bold;
 }
 
@@ -240,7 +239,7 @@ img.digital_img {
     background-color: #ffe6ac;
     margin: auto;
     width: 50%;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 img.marketing_img {
@@ -308,12 +307,21 @@ img.print_img {
     background-position: center;
     color: white;
     margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 5px;
 }
 
 img.vision_img {
     display: block;
     margin: auto;
     width: 50%;
+    height: 1000px;
+}
+
+.button3 {
+    background-color: navy;
+    border: 40px #c78c06;
+    margin-bottom: 3%;
 }
 
 #team_nav {
@@ -325,6 +333,7 @@ img.vision_img {
 hr {
     border-color: #c78c06;
     width: 95%;
+    padding-top: none;
 }
 
 img.john_img {
